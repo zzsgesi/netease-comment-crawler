@@ -21,3 +21,6 @@ netease-comment-crawler
 1. 安装依赖：`pip install requests`
 2. 修改代码中的歌曲 ID 为目标歌曲
 3. 运行：`python netease_comment.py`
+
+## 运行结果
+成功调用网易云评论接口，获取指定歌曲的评论数据，包含用户昵称、评论内容、点赞数、IP 归属地等字段。
