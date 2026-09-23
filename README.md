@@ -24,3 +24,5 @@ netease-comment-crawler
 
 ## 运行结果
 成功调用网易云评论接口，获取指定歌曲的评论数据，包含用户昵称、评论内容、点赞数、IP 归属地等字段。
+![运行结果1](images/result1.png)
+![运行结果2](images/result2.png)
